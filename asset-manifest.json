@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/keywardio-task/static/css/main.4f82d1d2.css",
-    "main.js": "/keywardio-task/static/js/main.7e46ca54.js",
+    "main.js": "/keywardio-task/static/js/main.6500d9d1.js",
     "static/js/26.58960899.chunk.js": "/keywardio-task/static/js/26.58960899.chunk.js",
     "static/js/877.e7190617.chunk.js": "/keywardio-task/static/js/877.e7190617.chunk.js",
     "static/js/726.5437f0ea.chunk.js": "/keywardio-task/static/js/726.5437f0ea.chunk.js",
     "static/js/32.5578d4d3.chunk.js": "/keywardio-task/static/js/32.5578d4d3.chunk.js",
     "index.html": "/keywardio-task/index.html",
     "main.4f82d1d2.css.map": "/keywardio-task/static/css/main.4f82d1d2.css.map",
-    "main.7e46ca54.js.map": "/keywardio-task/static/js/main.7e46ca54.js.map",
+    "main.6500d9d1.js.map": "/keywardio-task/static/js/main.6500d9d1.js.map",
     "26.58960899.chunk.js.map": "/keywardio-task/static/js/26.58960899.chunk.js.map",
     "877.e7190617.chunk.js.map": "/keywardio-task/static/js/877.e7190617.chunk.js.map",
     "726.5437f0ea.chunk.js.map": "/keywardio-task/static/js/726.5437f0ea.chunk.js.map",
@@ -16,6 +16,6 @@
   },
   "entrypoints": [
     "static/css/main.4f82d1d2.css",
-    "static/js/main.7e46ca54.js"
+    "static/js/main.6500d9d1.js"
   ]
 }
