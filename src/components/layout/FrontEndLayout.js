@@ -3,6 +3,7 @@ import { Routes, Route } from "react-router-dom";
 import CircularProgress from "@mui/material/CircularProgress";
 import routes from "../routes/FrontRoutes";
 import PageNotFound from "../ui/404";
+import Dashboard from "../Pages/Dashboard/Dashboard";
 
 const FrontEndLayout = () => {
   return (
