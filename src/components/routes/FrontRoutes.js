@@ -49,3 +49,4 @@ export default [
     path: "/add-type/fill-text-ad/submit-form",
   },
 ];
+// "homepage": "http://abgitters.github.io/keywardio-task/",
