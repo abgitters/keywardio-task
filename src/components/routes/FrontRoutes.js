@@ -11,7 +11,7 @@ export default [
     label: "DASHBOARD",
     component: <Dashboard />,
     showInMenu: true,
-    path: "",
+    path: "/keywardio-task",
   },
   {
     id: "2",
